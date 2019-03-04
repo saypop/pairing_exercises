@@ -73,3 +73,4 @@ $ rspec spec/scrabble_spec:5 # for the single test starting on line 5
 
 ##### Source
 Inspired by Exercism Ruby Track
+# pairing_exercises
